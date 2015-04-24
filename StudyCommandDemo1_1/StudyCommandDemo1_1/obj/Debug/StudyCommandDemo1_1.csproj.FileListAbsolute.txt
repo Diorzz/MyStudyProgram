@@ -1,1 +1,14 @@
 D:\Documents\GitHub\MyStudyProgram\StudyCommandDemo1_1\StudyCommandDemo1_1\bin\Debug\StudyCommandDemo1_1.exe.config
+D:\Documents\GitHub\MyStudyProgram\StudyCommandDemo1_1\StudyCommandDemo1_1\bin\Debug\StudyCommandDemo1_1.exe
+D:\Documents\GitHub\MyStudyProgram\StudyCommandDemo1_1\StudyCommandDemo1_1\bin\Debug\StudyCommandDemo1_1.pdb
+D:\Documents\GitHub\MyStudyProgram\StudyCommandDemo1_1\StudyCommandDemo1_1\obj\Debug\StudyCommandDemo1_1.csprojResolveAssemblyReference.cache
+D:\Documents\GitHub\MyStudyProgram\StudyCommandDemo1_1\StudyCommandDemo1_1\obj\Debug\MainWindow.baml
+D:\Documents\GitHub\MyStudyProgram\StudyCommandDemo1_1\StudyCommandDemo1_1\obj\Debug\MainWindow.g.cs
+D:\Documents\GitHub\MyStudyProgram\StudyCommandDemo1_1\StudyCommandDemo1_1\obj\Debug\App.g.cs
+D:\Documents\GitHub\MyStudyProgram\StudyCommandDemo1_1\StudyCommandDemo1_1\obj\Debug\StudyCommandDemo1_1_MarkupCompile.cache
+D:\Documents\GitHub\MyStudyProgram\StudyCommandDemo1_1\StudyCommandDemo1_1\obj\Debug\StudyCommandDemo1_1.g.resources
+D:\Documents\GitHub\MyStudyProgram\StudyCommandDemo1_1\StudyCommandDemo1_1\obj\Debug\StudyCommandDemo1_1.Properties.Resources.resources
+D:\Documents\GitHub\MyStudyProgram\StudyCommandDemo1_1\StudyCommandDemo1_1\obj\Debug\StudyCommandDemo1_1.csproj.GenerateResource.Cache
+D:\Documents\GitHub\MyStudyProgram\StudyCommandDemo1_1\StudyCommandDemo1_1\obj\Debug\StudyCommandDemo1_1.exe
+D:\Documents\GitHub\MyStudyProgram\StudyCommandDemo1_1\StudyCommandDemo1_1\obj\Debug\StudyCommandDemo1_1.pdb
+D:\Documents\GitHub\MyStudyProgram\StudyCommandDemo1_1\StudyCommandDemo1_1\obj\Debug\StudyCommandDemo1_1_MarkupCompile.lref
